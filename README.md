@@ -9,7 +9,7 @@
 - [ ] Unit test (Jest)
 - [ ] SSR
 
-# todo
+## todo
 - [ ] Re-read React docs.
 
 
