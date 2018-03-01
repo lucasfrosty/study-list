@@ -9,8 +9,9 @@
 - [ ] Unit test (Jest)
 - [ ] SSR
 
-## todo
-- [ ] Re-read React docs.
+## docs
+- [ ] React
+- [ ] Polaris
 
 
 ## others
