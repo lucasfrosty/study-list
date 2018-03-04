@@ -1,9 +1,10 @@
 # study-list
+Made this repo to organize things that i'm studying right now. To see more details go to the details page.
 
 ## dev
-- [ ] Unit test (#2, #4, #5, #6)
-- [ ] Design (#3)
-- [ ] Typescript (#1)
+- [ ] Unit test
+- [ ] Design
+- [ ] Typescript
 - [ ] CSS modules
 - [ ] SASS
 - [ ] Webpack
