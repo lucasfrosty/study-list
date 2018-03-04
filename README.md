@@ -1,12 +1,13 @@
 # study-list
 
 ## dev
+- [ ] Unit test
+- [ ] Design
 - [ ] Typescript
 - [ ] CSS modules
 - [ ] SASS
 - [ ] Webpack
 - [ ] GraphQL
-- [ ] Unit test (Jest)
 - [ ] SSR
 
 ## docs
