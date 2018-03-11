@@ -3,8 +3,9 @@ Made this repo to organize things that i'm studying right now. To see more detai
 
 ## Dev
 - [ ] Unit test
+- [ ] React Native
 - [ ] Typescript
-- [ ] CSS modules
+- [ ] CSS modules 
 - [ ] SASS
 - [ ] Webpack
 - [ ] GraphQL
