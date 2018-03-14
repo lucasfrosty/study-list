@@ -7,7 +7,7 @@ Made this repo to organize things that i'm studying right now. To see more detai
 - [ ] Typescript
 - [ ] CSS modules 
 - [ ] SASS
-- [ ] Webpack
+- [x] Webpack
 - [ ] GraphQL
 - [ ] SSR
 
