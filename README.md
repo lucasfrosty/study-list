@@ -11,6 +11,9 @@ Made this repo to organize things that i'm studying right now. To see more detai
 - [ ] GraphQL
 - [ ] SSR
 
+## General
+- [ ] History of Canada
+
 
 ## Books
 - [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter)
