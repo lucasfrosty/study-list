@@ -6,7 +6,7 @@ Made this repo to organize things that i'm studying right now. To see more detai
 - [ ] React Native
 - [ ] Typescript
 - [x] CSS modules 
-- [ ] SASS
+- [x] SASS
 - [x] Webpack
 - [ ] GraphQL
 - [ ] SSR
