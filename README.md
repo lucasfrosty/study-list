@@ -22,6 +22,6 @@ Made this repo to organize things that i'm studying right now. To see more detai
 
 
 ## Docs
-- [ ] React
+- [x] React
 - [ ] Polaris
 - [ ] Jest
