@@ -2,7 +2,7 @@
 Made this repo to organize things that i'm studying right now. To see more details go to the issues.
 
 ## Dev
-- [ ] Unit test
+- [x] Unit test
 - [ ] React Native
 - [ ] Typescript
 - [x] CSS modules 
