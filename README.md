@@ -2,13 +2,13 @@
 Made this repo to organize things that i'm studying right now. To see more details go to the issues.
 
 ## Dev
-- [x] Unit test
+- [ ] Unit test
 - [ ] React Native
 - [ ] Typescript
 - [x] CSS modules 
 - [x] SASS
 - [x] Webpack
-- [ ] GraphQL
+- [x] GraphQL (with Apollo)
 - [ ] SSR
 
 ## Books
