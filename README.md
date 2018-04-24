@@ -1,5 +1,5 @@
 # study-list
-Made this repo to organize things that i'm studying right now. To see more details go to the issues.
+Made this repo to organize things that i'm studying right now.
 
 ## Dev
 - [ ] Unit test
