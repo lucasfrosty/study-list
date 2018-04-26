@@ -2,6 +2,7 @@
 Made this repo to organize things that i'm studying right now.
 
 ## Dev
+- [ ] Preact
 - [ ] Unit test
 - [ ] React Native
 - [ ] Typescript
