@@ -1,7 +1,7 @@
 # study-list
 Made this repo to organize things that i'm studying right now.
 
-## Dev
+## Technologies
 - [ ] Preact
 - [ ] Unit test
 - [ ] React Native
@@ -12,10 +12,8 @@ Made this repo to organize things that i'm studying right now.
 - [x] GraphQL (with Apollo)
 - [ ] SSR
 
-## Books
-- [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter)
-- [ ] Shopify Handbook
-- [ ] Discover Canada
+## Subjects
+- [ ] Accessibility (a11y)
 
 
 ## Docs
