@@ -14,6 +14,7 @@ Made this repo to organize things that i'm studying right now.
 
 ## Subjects
 - [ ] Accessibility (a11y)
+- [ ] Web Perfomance Optimization
 
 
 ## Docs
