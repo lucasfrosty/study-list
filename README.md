@@ -13,9 +13,14 @@ Made this repo to organize things that i'm studying right now.
 - [ ] SSR
 - [ ] PostgreSQL
 
+
 ## Subjects
 - [ ] Accessibility (a11y)
 - [ ] Web Perfomance Optimization
+
+## Books
+- [ ] You Don't Know JS: Scope & Closures
+- [ ] You Don't Know JS: Async & Perfomance
 
 
 ## Docs
