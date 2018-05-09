@@ -2,6 +2,7 @@
 Made this repo to organize things that i'm studying right now.
 
 ## Technologies
+- [ ] Ruby (+rails)
 - [ ] Preact
 - [ ] Unit test
 - [ ] React Native
