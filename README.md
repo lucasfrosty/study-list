@@ -11,8 +11,6 @@ Made this repo to organize things that i'm studying right now.
 - [x] Webpack
 - [x] GraphQL (with Apollo)
 - [ ] SSR
-- [ ] PostgreSQL
-
 
 ## Subjects
 - [ ] Accessibility (a11y)
@@ -27,3 +25,4 @@ Made this repo to organize things that i'm studying right now.
 - [x] React
 - [x] Polaris
 - [ ] Jest
+
