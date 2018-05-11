@@ -2,6 +2,7 @@
 Made this repo to organize things that i'm studying right now.
 
 ## Technologies
+- [ ] Advanced React Patterns (this is some hard stuff)
 - [ ] Ruby (+rails)
 - [ ] Preact
 - [ ] Unit test
