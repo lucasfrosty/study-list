@@ -9,6 +9,7 @@ Just because i've studied it doesn't mean that i'm a expert on it. Some subjects
 - [ ] Unit test
 - [ ] React Native
 - [ ] Typescript
+- [ ] Data Visualizaion (D3 pref)
 - [x] CSS modules
 - [x] SASS
 - [x] Webpack
