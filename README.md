@@ -17,7 +17,7 @@ Just because i've studied it doesn't mean that i'm a expert on it. Some subjects
 - [ ] SSR
 
 ## Subjects
-- [ ] Accessibility (a11y)
+- [x] Accessibility (a11y)
 - [ ] Web Perfomance Optimization
 
 ## Books
