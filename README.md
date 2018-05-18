@@ -1,5 +1,5 @@
 # study-list
-Made this repo to organize things that i'm studying right now.  
+Made this repo to organize things that i'm studying right now.
 Just because i've studied it doesn't mean that i'm a expert on it. Some subjects i'm studying only the basics and some others i want to go deeper, but i know it takes time and practice to master.
 
 ## Technologies
@@ -18,7 +18,7 @@ Just because i've studied it doesn't mean that i'm a expert on it. Some subjects
 
 ## Subjects
 - [x] Accessibility (a11y)
-- [ ] Web Perfomance Optimization
+- [x] Web Perfomance Optimization
 
 ## Books
 - [ ] You Don't Know JS: Scope & Closures
