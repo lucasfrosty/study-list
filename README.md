@@ -19,6 +19,8 @@ Just because i've studied it doesn't mean that i'm a expert on it. Some subjects
 ## Subjects
 - [x] Accessibility (a11y)
 - [x] Web Perfomance Optimization
+- [ ] Code Splitting
+- [ ] Immutability
 
 ## Books
 - [ ] You Don't Know JS: Scope & Closures
