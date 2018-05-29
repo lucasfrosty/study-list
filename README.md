@@ -15,9 +15,9 @@ Just because i've studied it doesn't mean that i'm a expert on it. Some subjects
 - [x] Webpack
 - [x] GraphQL (with Apollo)
 - [ ] SSR
-- [ ] UX
 
 ## Subjects
+- [ ] UX
 - [x] Accessibility (a11y)
 - [x] Web Perfomance Optimization
 - [ ] Code Splitting
